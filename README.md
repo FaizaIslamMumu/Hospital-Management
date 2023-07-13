@@ -6,7 +6,7 @@
 4. Design Pattern : Repository pattern
 5. Entity Framework
 6. The user interface is designed with HTML5, CSS3, and Javascript.
-7. 
+   
 #Nuget Packages :
 In Web API project :
     1. Microsoft.EntityFrameworkCore (6.0.19)
